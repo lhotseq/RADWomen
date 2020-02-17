@@ -1,0 +1,16 @@
+//1.  Declare three primitives variables, an Integer, a String and a Decimal
+        Integer i;
+        String s;
+        Decimal d;
+//2.  Assign values to your three new variables
+        i = 8;
+        s = 'First string';
+        d = 8.88;
+//3.  Print out your variables to the debug log
+		System.Debug('My Integer number is: '+i);
+    System.Debug('My String is: '+ s);
+    System.Debug('My Decimal is: '+ d); 
+//4.  Declare an integer variable and assign a value in the same line
+    Integer FavNumber = 8;
+//5.  Print out your integer to the debug log
+		System.Debug('My Favorite Number is: '+ FavNumber);
